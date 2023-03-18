@@ -1,2 +1,2 @@
 - [[2023-03-02]]: The journey begins, and we arrive at [[Phandalin]].
-- [[2023-03-18]]: Investigating [[Phandalin#Barthen's Provisions]] and the escape of Wart.
+- [[2023-03-18]]: Investigating [[Phandalin#Barthen's Provisions|Barthen's Provisions]] and the escape of Wart.
