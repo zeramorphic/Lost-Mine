@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/2023-03-18.md",
+                "file": "docs/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/2023-03-18.md",
+                "file": "docs/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/2023-03-18.md",
+                "file": "docs/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/2023-03-18.md"
+                "file": "docs/index.md"
               }
             }
           }
@@ -149,8 +149,8 @@
   "active": "4ed85b9d17117fd8",
   "lastOpenFiles": [
     "docs/The Lost Mine.md",
-    "docs/2023-03-02.md",
     "docs/2023-03-18.md",
+    "docs/2023-03-02.md",
     "docs/index.md",
     "docs/Redbrands.md",
     "docs/Phandalin.md",
