@@ -1,0 +1,1 @@
+Hired the party at the start of the campaign to escort a wagen from [[Neverwinter]] to [[Phandalin]]. His horse, along with that of his friend [[Sildar Hallwinter]], were found killed with black-feathered arrows sticking out. It is unknown if he is alive or dead.
